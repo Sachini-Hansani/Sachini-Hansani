@@ -148,3 +148,32 @@ A student management lab project developed with **Flutter and Firebase Cloud Fir
 [![View Repository](https://img.shields.io/badge/View_Repository-6C4AB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachini-Hansani/flutter-firebase-crud-app)
 
 ---
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  I'm always interested in learning, exploring new technologies,
+  and connecting with other developers.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachini-hansani/">
+    <img src="https://img.shields.io/badge/LinkedIn-6C4AB6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sachini-Hansani">
+    <img src="https://img.shields.io/badge/GitHub-33264F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💜 Learning, Building & Growing as a Future Full-Stack Developer</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
+
+---
