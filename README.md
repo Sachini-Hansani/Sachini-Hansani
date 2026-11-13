@@ -42,3 +42,17 @@ I'm passionate about designing and developing practical software applications, e
 - 🌱 Continuously learning and improving my development skills
 
 ---
+
+## 🎯 Current Focus
+
+I'm currently focusing on strengthening my software engineering skills through practical projects, continuous learning, and hands-on development.
+
+- 🌐 **Full-Stack Development** - Developing my frontend and backend development skills to build complete applications.
+- 📱 **Mobile Application Development** - Building interactive applications using Flutter, Dart, React Native, and Expo.
+- ⚙️ **Backend Development** - Exploring Java, Spring Boot, REST APIs, and application architecture.
+- 🗄️ **Database Integration** - Working with MySQL and Firebase to understand data management and CRUD operations.
+- 🎨 **UI/UX Design** - Improving application layouts, usability, and responsive interface design.
+- 🧪 **Software Quality** - Learning about application testing, debugging, clean code, and development best practices.
+
+---
+
