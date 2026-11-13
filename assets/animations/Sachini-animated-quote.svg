@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="154" viewBox="0 0 1100 154" role="img" aria-labelledby="title desc">
+  <title id="title">Building ideas into code</title>
+  <desc id="desc">Subtle purple color-wave lettering for Sachini Hansani's software development profile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16142A"/>
+      <stop offset="0.52" stop-color="#23183D"/>
+      <stop offset="1" stop-color="#161328"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6C4AB6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#AD8BFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#6C4AB6" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .letter { fill: #DCCEFF; animation: colorWave 4.2s ease-in-out infinite; }
+      .lineMotion { animation: lineGlow 4.2s ease-in-out infinite; }
+      @keyframes colorWave {
+        0%, 20%, 85%, 100% { fill: #DCCEFF; }
+        36% { fill: #FFFFFF; }
+        48% { fill: #AA7BFF; }
+        60% { fill: #A6E6FF; }
+      }
+      @keyframes lineGlow {
+        0%, 100% { opacity: .45; }
+        50% { opacity: 1; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .letter, .lineMotion { animation: none; }
+      }
+    </style>
+  </defs>
+  <rect x="2" y="2" width="1096" height="150" rx="22" fill="url(#background)" stroke="#48336A" stroke-width="2"/>
+  <circle cx="48" cy="38" r="4" fill="#9B79F5" opacity=".55"/>
+  <circle cx="65" cy="38" r="4" fill="#9B79F5" opacity=".35"/>
+  <circle cx="82" cy="38" r="4" fill="#9B79F5" opacity=".2"/>
+  <text class="letter" x="269.2" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.00s">B</text><text class="letter" x="292.6" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.13s">u</text><text class="letter" x="316.0" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.26s">i</text><text class="letter" x="339.4" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.39s">l</text><text class="letter" x="362.8" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.52s">d</text><text class="letter" x="386.2" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.65s">i</text><text class="letter" x="409.6" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.78s">n</text><text class="letter" x="433.0" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-0.91s">g</text><text class="letter" x="456.4" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.04s">&#160;</text><text class="letter" x="479.8" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.17s">i</text><text class="letter" x="503.2" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.30s">d</text><text class="letter" x="526.6" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.43s">e</text><text class="letter" x="550.0" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.56s">a</text><text class="letter" x="573.4" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.69s">s</text><text class="letter" x="596.8" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.82s">&#160;</text><text class="letter" x="620.2" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-1.95s">i</text><text class="letter" x="643.6" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.08s">n</text><text class="letter" x="667.0" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.21s">t</text><text class="letter" x="690.4" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.34s">o</text><text class="letter" x="713.8" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.47s">&#160;</text><text class="letter" x="737.2" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.60s">c</text><text class="letter" x="760.6" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.73s">o</text><text class="letter" x="784.0" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.86s">d</text><text class="letter" x="807.4" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-2.99s">e</text><text class="letter" x="830.8" y="74" text-anchor="middle" font-family="Consolas, Liberation Mono, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" style="animation-delay:-3.12s">.</text>
+  <text x="550" y="108" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="3" fill="#B6A2D7">LEARN  •  CREATE  •  IMPROVE</text>
+  <rect class="lineMotion" x="278" y="125" width="544" height="2" rx="1" fill="url(#line)"/>
+</svg>
