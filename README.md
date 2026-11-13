@@ -1,4 +1,16 @@
 
+<!-- Professional GitHub Profile Banner -->
+
+<p align="center">
+  <img
+    src="./Sachini-profile-banner.svg"
+    alt="Sachini Hansani - Software Engineering Undergraduate and Aspiring Full-Stack Developer"
+    width="100%"
+  />
+</p>
+
+---
+
 <!-- Sachini Hansani | GitHub Profile README -->
 
 <div align="center">
