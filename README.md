@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Sachini-Hansani/Sachini-Hansani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sachini Hansani | GitHub Profile README -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Sachini Hansani! 👋
+
+### 👩‍💻 Software Engineering Undergraduate
+### 🚀 Aspiring Full-Stack Developer
+
+**Passionate about Software Development, Technology & Continuous Learning**
+
+📍 Sri Lanka | 🎓 NSBM Green University
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm **Sachini Hansani**, a Software Engineering undergraduate at **NSBM Green University, Sri Lanka**, aspiring to become a skilled **Full-Stack Developer**.
+
+I'm passionate about designing and developing practical software applications, exploring modern technologies, and continuously improving my programming and problem-solving skills.
+
+- 🎓 Studying **Software Engineering**
+- 💻 Interested in **Full-Stack Web Development**
+- 📱 Building applications using **Flutter and React Native**
+- ⚙️ Exploring **Java, Spring Boot, and REST APIs**
+- 🗄️ Working with **MySQL and Firebase**
+- 🌱 Continuously learning and improving my development skills
+
+---
