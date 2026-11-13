@@ -26,6 +26,18 @@
 
 </div>
 
+
+
+<!-- Animated Developer Lettering -->
+
+<p align="center">
+  <img
+    src="./assets/animations/Sachini-animated-quote.svg"
+    alt="Building ideas into code - Learn, Create, Improve"
+    width="100%"
+  />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
