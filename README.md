@@ -101,3 +101,50 @@ I'm currently focusing on strengthening my software engineering skills through p
 </p>
 
 ---
+
+
+## 🚀 Featured Projects
+
+A collection of my academic and personal development projects, showcasing practical experience in mobile application development, backend integration, and software engineering concepts.
+
+---
+
+### 🏏 Mini Cricket Game
+
+An interactive mini cricket game developed using **Flutter and Dart**, featuring randomized scoring, ball tracking, and restart functionality.
+
+**Key Features**
+- Random run generation for each shot
+- Live score and remaining-ball tracking
+- Six-ball gameplay
+- Game-over and restart functionality
+
+**Technologies Used**
+
+![Flutter](https://img.shields.io/badge/Flutter-33264F?style=flat-square&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-33264F?style=flat-square&logo=dart&logoColor=00B4AB)
+
+[![View Repository](https://img.shields.io/badge/View_Repository-6C4AB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachini-Hansani/mini_cricket_app)
+
+---
+
+### 📚 Flutter Firebase CRUD Application
+
+A student management lab project developed with **Flutter and Firebase Cloud Firestore**, demonstrating database integration and CRUD operations through a mobile interface.
+
+**Key Features**
+- Create student records
+- Retrieve and display student information
+- Update existing student details
+- Delete student records
+- Firebase Cloud Firestore integration
+
+**Technologies Used**
+
+![Flutter](https://img.shields.io/badge/Flutter-33264F?style=flat-square&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-33264F?style=flat-square&logo=dart&logoColor=00B4AB)
+![Firebase](https://img.shields.io/badge/Firebase-33264F?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+[![View Repository](https://img.shields.io/badge/View_Repository-6C4AB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachini-Hansani/flutter-firebase-crud-app)
+
+---
